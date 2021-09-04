@@ -1,1 +1,1 @@
-# datascince
+# datascience
